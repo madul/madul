@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub profile! 
 
-Here I'll tell you a little bit about who I am and what I am doing here.
+Here I'll tell you a little bit about who I am.
 
 So, I am an electrical engineer who loves to travel around. I decided to focus on software development because I realized that I'm pretty good at solving problems (either creating applications or debbuging codes).
 
