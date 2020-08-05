@@ -9,6 +9,7 @@ So, I am an electrical engineer who loves to travel around. I decided to focus o
 After working with some programming languages like C, Python, Java and Progress, I decided to change the path a little bit and began to study front-end languages.
 
 💼 Experience in: C, Java, Python, Progress... 
+
 🌱 Currently studying: HTML, CSS/Bootstrap, JavaScript(ES6), ~Front-end 
 
 🙋‍ About me (outside work hours): I love to travel, to practice sports and talk to friends. Ah, and Netflix, of course. 
