@@ -10,7 +10,7 @@ After working with some programming languages like C, Python, Java and Progress,
 
 💼 Experience in: C, Java, Python, Progress... 
 
-🌱 Currently studying: HTML, CSS/Bootstrap, JavaScript(ES6), ~Front-end 
+🌱 Currently studying: HTML, CSS/Bootstrap, JavaScript(ES6), PHP, React ...
 
 🙋‍ About me (outside work hours): I love to travel, to practice sports and talk to friends. Ah, and Netflix, of course. 
 
